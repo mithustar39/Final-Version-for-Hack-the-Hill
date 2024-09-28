@@ -16,6 +16,8 @@ The **Sleep Tracker App** is a web application designed to help users track thei
 - **Frontend**: React, Vite
 - **Styling**: styled-components
 - **Routing**: React Router
+- **Backend**: Node JS
+- **Database**: Mongo DB
 
 ## Prerequisites
 
