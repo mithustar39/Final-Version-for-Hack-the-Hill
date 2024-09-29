@@ -28,3 +28,9 @@ Before you begin, ensure you have met the following requirements:
 
   ```bash
   npm -v
+
+
+## How to run?
+1. npm install
+2. make sure to have node js installed before step 1
+3. npm run dev after all dependencies are installed
